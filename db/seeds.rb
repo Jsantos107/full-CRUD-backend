@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Card.destroy_all 
 
-Card.create(image:"https://images.unsplash.com/photo-1536859975388-b5e6623e9223?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80", description:"Mountains at night" )
+Card.create(image:"https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687", description:"Mountains at night" )
